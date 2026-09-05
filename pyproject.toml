@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "teledyne-frontline-x240-rce"
+version = "1.0.0"
+description = "Authorized-testing tools for Teledyne LeCroy Frontline X240 vulnerabilities"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "GPL-3.0-only"
+license-files = ["LICENSE"]
+authors = [
+  { name = "Erwin Karincic" },
+]
+dependencies = [
+  "cryptography>=41",
+  "passlib>=1.7.4",
+]
+
+[tool.setuptools]
+py-modules = []
