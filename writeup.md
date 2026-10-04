@@ -105,7 +105,7 @@ Each vulnerability independently provides unauthenticated remote code execution 
 - 2026-06-24: advisory TDY-PSG-2026-001 published, covering the Frontline products.
 - 2026-06-25: advisory TDY-PSG-2026-002 published, covering the Voyager M480x.
 - 2026-08-25: ninety-day coordinated-disclosure window concluded.
-- 2026-09-05: publication of this report following the coordinated-disclosure window.
+- 2026-10-04: publication of this report following the coordinated-disclosure window.
 
 The vendor's handling of this disclosure was prompt and cooperative. 
 
